@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>dashboardclient</name>
+    <displayName><![CDATA[Dashboard para Clientes]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Con este modulo, desplegamos un dashboard con las ventas de cada cliente y sus ahorros a lo largo del tiempo.]]></description>
+    <author><![CDATA[Andr&eacute;s Abarz&uacute;a]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[¿Estas seguro de Desinstalarlo?]]></confirmUninstall>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
